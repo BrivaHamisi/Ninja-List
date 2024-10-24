@@ -16,3 +16,5 @@ const Navbar = () => {
 }
 
 export default Navbar;
+
+// Some Changes to the Navabr
